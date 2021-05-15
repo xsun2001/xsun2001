@@ -9,4 +9,12 @@
 ### [WakaTime](https://wakatime.com)
 
 <!--START_SECTION:waka-->
+```text
+Week: 07 May, 2021 - 14 May, 2021
+
+C++      5 hrs 19 mins   ████████████████████████▒   96.83 % 
+Python   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+VimL     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+```
 <!--END_SECTION:waka-->

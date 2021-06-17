@@ -10,7 +10,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 June, 2021 - 15 June, 2021
+Week: 09 June, 2021 - 16 June, 2021
 
 TeX        2 hrs 54 mins   ██████████░░░░░░░░░░░░░░░   39.90 % 
 C          2 hrs 51 mins   █████████▓░░░░░░░░░░░░░░░   39.27 % 

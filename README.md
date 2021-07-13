@@ -10,9 +10,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 July, 2021 - 11 July, 2021
+Week: 06 July, 2021 - 12 July, 2021
 
-C++        1 hr 7 mins     █████████████████░░░░░░░░   67.78 % 
-Markdown   31 mins         ████████░░░░░░░░░░░░░░░░░   32.19 % 
+C++        1 hr 6 mins     ██████████████████████▒░░   89.64 % 
+Markdown   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
 ```
 <!--END_SECTION:waka-->

@@ -10,6 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 10 July, 2021 - 16 July, 2021
+
+Other   33 mins         ██████████████▓░░░░░░░░░░   58.06 % 
+Rust    11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+C++     5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Bash    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Text    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 <!--END_SECTION:waka-->

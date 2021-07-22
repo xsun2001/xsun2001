@@ -10,7 +10,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 July, 2021 - 20 July, 2021
+Week: 15 July, 2021 - 21 July, 2021
 
 Rust         6 hrs 14 mins   █████████████████████░░░░   83.85 % 
 Other        47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 % 

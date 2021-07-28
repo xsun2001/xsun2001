@@ -10,10 +10,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 July, 2021 - 26 July, 2021
-
-Rust       1 hr 47 mins    █████████████████████▓░░░   86.30 % 
-Other      13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->

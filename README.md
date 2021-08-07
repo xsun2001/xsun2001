@@ -10,6 +10,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 31 July, 2021 - 06 August, 2021
+
+Rust         1 hr 28 mins    █████████████████████████   99.45 % 
 ```
 <!--END_SECTION:waka-->

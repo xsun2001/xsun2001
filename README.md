@@ -10,8 +10,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 August, 2021 - 09 August, 2021
+Week: 04 August, 2021 - 10 August, 2021
 
-Rust         1 hr 35 mins    █████████████████████████   99.49 % 
+Rust         1 hr 50 mins    █████████████████████████   99.56 % 
 ```
 <!--END_SECTION:waka-->

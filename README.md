@@ -10,9 +10,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 August, 2021 - 13 August, 2021
+Week: 08 August, 2021 - 14 August, 2021
 
-Rust     21 mins         ████████████████████░░░░░   80.30 % 
-Python   5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Rust     21 mins         ████████████████████░░░░░   79.93 % 
+Python   5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
 ```
 <!--END_SECTION:waka-->

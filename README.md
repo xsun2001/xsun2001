@@ -10,9 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 August, 2021 - 14 August, 2021
+Week: 09 August, 2021 - 15 August, 2021
 
-Rust     21 mins         ████████████████████░░░░░   79.93 % 
-Python   5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Python       2 hrs 40 mins   ██████████████████▒░░░░░░   72.96 % 
+JavaScript   29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Rust         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+HTML         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 ```
 <!--END_SECTION:waka-->

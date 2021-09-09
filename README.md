@@ -10,10 +10,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2021 - 07 September, 2021
+Week: 02 September, 2021 - 08 September, 2021
 
-C        10 hrs 21 mins  ████████████████████░░░░░   79.41 % 
-C++      2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Python   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+C        10 hrs 21 mins  ██████████████████░░░░░░░   71.40 % 
+C++      2 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Python   1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 ```
 <!--END_SECTION:waka-->

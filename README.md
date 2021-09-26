@@ -10,10 +10,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2021 - 24 September, 2021
+Week: 19 September, 2021 - 25 September, 2021
 
-Markdown   2 hrs 39 mins   █████████████████▓░░░░░░░   71.18 % 
-Bash       26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Markdown   2 hrs 39 mins   █████████████████▓░░░░░░░   71.15 % 
+Bash       26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 C          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 Makefile   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 Other      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 

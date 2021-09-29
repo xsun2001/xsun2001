@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2021 - 27 September, 2021
+Week: 22 September, 2021 - 28 September, 2021
 
-Markdown     2 hrs 41 mins   ████████████░░░░░░░░░░░░░   47.61 % 
-TypeScript   1 hr 16 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.65 % 
-Bash         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Makefile     21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-C            13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+TypeScript   6 hrs 6 mins    ██████████████░░░░░░░░░░░   56.31 % 
+Markdown     2 hrs 41 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.82 % 
+Bash         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Makefile     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Python       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 ```
 <!--END_SECTION:waka-->

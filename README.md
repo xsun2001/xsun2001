@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 September, 2021 - 04 October, 2021
+Week: 29 September, 2021 - 05 October, 2021
 
-TypeScript   12 hrs 6 mins   ███████████▓░░░░░░░░░░░░░   46.65 % 
-Python       7 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   29.42 % 
-Markdown     1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-YAML         1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-JSON         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Python       7 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   31.88 % 
+TypeScript   7 hrs 17 mins   ███████▒░░░░░░░░░░░░░░░░░   29.99 % 
+Vue.js       2 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Markdown     1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+YAML         1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 ```
 <!--END_SECTION:waka-->

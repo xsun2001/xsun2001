@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 October, 2021 - 18 October, 2021
+Week: 13 October, 2021 - 19 October, 2021
 
-Python       14 hrs 11 mins  ███████████░░░░░░░░░░░░░░   44.53 % 
-TypeScript   8 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.75 % 
-C++          3 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Markdown     1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-YAML         58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Python       11 hrs 34 mins  ██████████▒░░░░░░░░░░░░░░   40.67 % 
+TypeScript   8 hrs 52 mins   ███████▓░░░░░░░░░░░░░░░░░   31.22 % 
+C++          3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Markdown     1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+C            52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 <!--END_SECTION:waka-->

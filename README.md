@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 October, 2021 - 23 October, 2021
+Week: 18 October, 2021 - 24 October, 2021
 
-TypeScript   11 hrs 22 mins  ██████████▒░░░░░░░░░░░░░░   41.77 % 
-Python       9 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   34.25 % 
-Fortran      2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-C++          1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-C            1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+TypeScript   11 hrs 28 mins  ███████████▒░░░░░░░░░░░░░   44.73 % 
+Python       7 hrs 47 mins   ███████▓░░░░░░░░░░░░░░░░░   30.36 % 
+Fortran      2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+C            1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+C++          57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 ```
 <!--END_SECTION:waka-->

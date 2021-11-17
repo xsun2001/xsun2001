@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 November, 2021 - 15 November, 2021
+Week: 10 November, 2021 - 16 November, 2021
 
-Verilog      14 hrs 9 mins   ███████████░░░░░░░░░░░░░░   43.65 % 
-TypeScript   9 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   29.36 % 
-Java         5 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-JavaScript   1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Assembly     53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Verilog      17 hrs 50 mins  ██████████████░░░░░░░░░░░   55.34 % 
+TypeScript   7 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Java         2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Python       1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Assembly     59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 <!--END_SECTION:waka-->

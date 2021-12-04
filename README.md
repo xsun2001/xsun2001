@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 November, 2021 - 02 December, 2021
+Week: 27 November, 2021 - 03 December, 2021
 
-Python     6 hrs 31 mins   ████████▒░░░░░░░░░░░░░░░░   33.81 % 
-Verilog    3 hrs 44 mins   █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Markdown   2 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Assembly   1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-C          1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Python             7 hrs 14 mins   ██████████████▒░░░░░░░░░░   57.45 % 
+Markdown           2 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.08 % 
+reStructuredText   41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Java               32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+YAML               26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 <!--END_SECTION:waka-->

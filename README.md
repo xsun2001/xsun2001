@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 November, 2021 - 05 December, 2021
+Week: 30 November, 2021 - 06 December, 2021
 
-Python             14 hrs 2 mins   ██████████████████▓░░░░░░   74.23 % 
-Markdown           2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-reStructuredText   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Text               27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-YAML               26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Python             14 hrs 2 mins   ██████████████████░░░░░░░   71.99 % 
+Markdown           2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+C                  45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+reStructuredText   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Text               26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 <!--END_SECTION:waka-->

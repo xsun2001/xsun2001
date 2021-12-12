@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2021 - 10 December, 2021
+Week: 05 December, 2021 - 11 December, 2021
 
-Python       7 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   31.73 % 
-C++          5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-TeX          4 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.38 % 
-TypeScript   2 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-JSON         57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+C++          5 hrs 45 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.37 % 
+Python       5 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+TeX          4 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+TypeScript   2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+JSON         57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 ```
 <!--END_SECTION:waka-->

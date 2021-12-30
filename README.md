@@ -10,10 +10,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2021 - 28 December, 2021
+Week: 23 December, 2021 - 29 December, 2021
 
-TeX    11 mins         ████████████░░░░░░░░░░░░░   47.80 % 
-C      11 mins         ███████████▓░░░░░░░░░░░░░   46.98 % 
-VimL   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+TeX     1 hr 19 mins    █████████████████████████   99.80 % 
 ```
 <!--END_SECTION:waka-->

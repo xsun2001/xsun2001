@@ -10,8 +10,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
+Week: 24 December, 2021 - 30 December, 2021
 
-TeX     1 hr 19 mins    █████████████████████████   99.80 % 
+Markdown     4 hrs 42 mins   ███████████████████▒░░░░░   77.42 % 
+TeX          1 hr 19 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.73 % 
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 <!--END_SECTION:waka-->

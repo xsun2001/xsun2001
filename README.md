@@ -10,7 +10,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 02 January, 2022
+Week: 28 December, 2021 - 03 January, 2022
 
 Markdown    15 hrs 38 mins  █████████████████████▓░░░   86.52 % 
 TeX         1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 

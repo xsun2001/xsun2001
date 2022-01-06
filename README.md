@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2021 - 04 January, 2022
+Week: 30 December, 2021 - 05 January, 2022
 
-Markdown    15 hrs 38 mins  █████████████████████▓░░░   86.52 % 
-TeX         1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Python      48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-YAML        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-gitignore   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Markdown    15 hrs 38 mins  ███████████████████████░░   92.26 % 
+Python      48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+YAML        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+gitignore   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+XML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->

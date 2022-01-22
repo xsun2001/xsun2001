@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2022 - 20 January, 2022
+Week: 15 January, 2022 - 21 January, 2022
 
-C++          13 hrs 8 mins   ██████████████████░░░░░░░   72.29 % 
-ObjectiveC   1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Python       1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Log          46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Makefile     21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+C++          13 hrs 31 mins  ████████████████░░░░░░░░░   64.02 % 
+Python       3 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+ObjectiveC   2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Log          46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Markdown     35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 <!--END_SECTION:waka-->

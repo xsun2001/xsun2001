@@ -10,10 +10,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
-C++          53 mins         ███████████████████▓░░░░░   78.59 % 
-ObjectiveC   11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Python       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+C++          53 mins         ███████████████████▒░░░░░   77.06 % 
+ObjectiveC   11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Python       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 <!--END_SECTION:waka-->

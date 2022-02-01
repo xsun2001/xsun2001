@@ -10,7 +10,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2022 - 30 January, 2022
+Week: 25 January, 2022 - 31 January, 2022
 
 C++          53 mins         ███████████████████▒░░░░░   77.06 % 
 ObjectiveC   11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 % 

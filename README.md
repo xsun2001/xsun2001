@@ -10,9 +10,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2022 - 01 February, 2022
+Week: 27 January, 2022 - 02 February, 2022
 
-TOML      17 mins         ████████████████████░░░░░   79.65 % 
-Python    3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+TOML     30 mins         █████████████████████▒░░░   85.56 % 
+Python   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+C++      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 <!--END_SECTION:waka-->

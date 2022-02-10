@@ -10,11 +10,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
+Week: 03 February, 2022 - 09 February, 2022
 
-TOML         12 mins         ██████████████████▓░░░░░░   74.93 % 
-Rust         1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-C++          1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Properties   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Rust         1 min           ███████████████▒░░░░░░░░░   61.25 % 
+Properties   1 min           █████████▒░░░░░░░░░░░░░░░   37.12 % 
 ```
 <!--END_SECTION:waka-->

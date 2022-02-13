@@ -10,9 +10,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
-
-Rust         1 min           ████████████▓░░░░░░░░░░░░   51.18 % 
-Properties   1 min           ████████████▒░░░░░░░░░░░░   48.82 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->

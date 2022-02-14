@@ -10,6 +10,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 07 February, 2022 - 13 February, 2022
+
+Markdown   1 hr 14 mins    ██████████████▓░░░░░░░░░░   58.25 % 
+Fortran    53 mins         ██████████▒░░░░░░░░░░░░░░   41.75 % 
 ```
 <!--END_SECTION:waka-->

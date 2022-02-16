@@ -10,12 +10,14 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 14 February, 2022
+Week: 09 February, 2022 - 15 February, 2022
 
-Fortran    2 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   44.80 % 
-Markdown   2 hrs 14 mins   ███████████░░░░░░░░░░░░░░   43.93 % 
+Total: 5 hrs 5 mins
+
+Fortran    2 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   44.78 % 
+Markdown   2 hrs 14 mins   ███████████░░░░░░░░░░░░░░   43.96 % 
 Verilog    19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Text       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Text       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->

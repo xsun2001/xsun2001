@@ -10,10 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 13 February, 2022 - To: 20 February, 2022
+From: 15 February, 2022 - To: 22 February, 2022
 
-SystemVerilog   6 mins          ████████████████▒░░░░░░░░   65.93 % 
-Bash            2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.91 % 
-YAML            1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Rust            2 hrs 43 mins   █████████████▒░░░░░░░░░░░   53.84 % 
+TeX             1 hr 40 mins    ████████▒░░░░░░░░░░░░░░░░   33.20 % 
+TOML            8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Makefile        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+SystemVerilog   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 <!--END_SECTION:waka-->

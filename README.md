@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 22 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
-Rust            2 hrs 43 mins   █████████████▒░░░░░░░░░░░   53.84 % 
-TeX             1 hr 40 mins    ████████▒░░░░░░░░░░░░░░░░   33.20 % 
-TOML            8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Makefile        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-SystemVerilog   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Rust       4 hrs 9 mins    ███████████░░░░░░░░░░░░░░   43.72 % 
+TeX        3 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.28 % 
+Markdown   1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Makefile   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+TOML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 <!--END_SECTION:waka-->

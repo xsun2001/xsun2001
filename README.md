@@ -10,7 +10,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 19 February, 2022 - To: 26 February, 2022
 
 Rust       4 hrs 9 mins    ███████████░░░░░░░░░░░░░░   43.72 % 
 TeX        3 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.28 % 

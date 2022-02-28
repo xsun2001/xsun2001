@@ -9,13 +9,16 @@
 ### [WakaTime](https://wakatime.com)
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Rust       4 hrs 9 mins    ███████████░░░░░░░░░░░░░░   43.72 % 
-TeX        3 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.28 % 
-Markdown   1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Makefile   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-TOML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Rust             4 hrs 9 mins    ███████████░░░░░░░░░░░░░░   44.49 %
+TeX              3 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.88 %
+Markdown         1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+Makefile         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+TOML             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Text             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
+
 <!--END_SECTION:waka-->

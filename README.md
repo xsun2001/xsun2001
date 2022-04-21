@@ -11,11 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2022 - To: 19 April 2022
+From: 13 April 2022 - To: 20 April 2022
 
-TeX     2 hrs 36 mins   █████████████████████████   99.43 %
-JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TeX   1 hr 45 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

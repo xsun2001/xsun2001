@@ -11,9 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2022 - To: 21 April 2022
+From: 15 April 2022 - To: 22 April 2022
 
-TeX   1 hr 45 mins    █████████████████████████   100.00 %
+TeX        1 hr 45 mins    ███████████████████████▒░   93.36 %
+C          7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

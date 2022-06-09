@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2022 - To: 07 June 2022
+From: 01 June 2022 - To: 08 June 2022
 
-Cuda             5 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   35.28 %
-TeX              4 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
-C++              4 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
-ObjectiveC       1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Makefile         47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-GitIgnore file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+C++              10 hrs 27 mins  ███████████▒░░░░░░░░░░░░░   45.47 %
+Cuda             5 hrs 37 mins   ██████░░░░░░░░░░░░░░░░░░░   24.44 %
+TeX              4 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
+ObjectiveC       1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Makefile         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+GitIgnore file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->

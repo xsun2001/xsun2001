@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 June 2022 - To: 07 July 2022
+From: 01 July 2022 - To: 08 July 2022
 
 SystemVerilog    5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.66 %
 Tcl              3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %

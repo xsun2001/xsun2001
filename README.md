@@ -11,12 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 July 2022 - To: 12 July 2022
-
-SystemVerilog    5 mins          █████████░░░░░░░░░░░░░░░░   36.09 %
-Tcl              3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
-YAML             2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
-Other            1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

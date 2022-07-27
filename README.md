@@ -11,7 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 19 July 2022 - To: 26 July 2022
+
+Scala            2 hrs 15 mins   █████████████░░░░░░░░░░░░   52.06 %
+ca65 assembler   42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+Markdown         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+Text             14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+C++              13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+sbt              12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
 ```
 
 <!--END_SECTION:waka-->

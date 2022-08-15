@@ -11,14 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 August 2022 - To: 13 August 2022
+From: 07 August 2022 - To: 14 August 2022
 
-Markdown       5 hrs 35 mins   █████████████▓░░░░░░░░░░░   54.56 %
-TeX            3 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.72 %
-Java           1 hr 36 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-HTTP Request   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-C++            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java           1 hr 31 mins    █████████████████████████   99.67 %
+HTTP Request   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->

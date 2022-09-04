@@ -11,12 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 August 2022 - To: 31 August 2022
+From: 26 August 2022 - To: 02 September 2022
 
-Text          4 mins          █████████░░░░░░░░░░░░░░░░   36.02 %
-C             3 mins          ███████▒░░░░░░░░░░░░░░░░░   28.72 %
-Objective-C   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
-Other         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+C++              1 hr 27 mins    █████████████████░░░░░░░░   68.05 %
+Scala            9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+Other            9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
 ```
 
 <!--END_SECTION:waka-->

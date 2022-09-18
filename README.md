@@ -11,11 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
+From: 10 September 2022 - To: 17 September 2022
 
-Rust                1 hr 26 mins    ███████████▓░░░░░░░░░░░░░   46.78 %
-Scala               41 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
-Other               17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+Rust                1 hr 26 mins    ███████████████░░░░░░░░░░   60.37 %
+Other               17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
 ```
 
 <!--END_SECTION:waka-->

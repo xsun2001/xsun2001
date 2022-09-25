@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 September 2022 - To: 22 September 2022
+From: 17 September 2022 - To: 24 September 2022
 
-Go               2 hrs 28 mins   ███████████▒░░░░░░░░░░░░░   44.71 %
-Scala            2 hrs 28 mins   ███████████▒░░░░░░░░░░░░░   44.68 %
-Markdown         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Rust             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-ActionScript 3   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Python           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Scala            3 hrs 20 mins   ███████████░░░░░░░░░░░░░░   43.93 %
+Go               2 hrs 28 mins   ████████░░░░░░░░░░░░░░░░░   32.58 %
+TypeScript       1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
+Rust             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+ActionScript 3   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Text             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->

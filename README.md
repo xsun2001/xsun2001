@@ -11,13 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 September 2022 - To: 26 September 2022
+From: 20 September 2022 - To: 27 September 2022
 
-Scala            5 hrs 40 mins   ██████████████████░░░░░░░   71.74 %
-TypeScript       1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-ca65 assembler   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-Rust             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Other            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Scala            7 hrs 6 mins    ███████████████████░░░░░░   76.66 %
+TypeScript       1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+ca65 assembler   36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Other            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->

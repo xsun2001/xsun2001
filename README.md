@@ -11,14 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 September 2022 - To: 04 October 2022
+From: 28 September 2022 - To: 05 October 2022
 
-Python           6 hrs 11 mins   ███████████████░░░░░░░░░░   60.13 %
-Scala            3 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   30.00 %
-C                26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Makefile         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Markdown         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Assembly         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Python     6 hrs 11 mins   ██████████████████░░░░░░░   72.20 %
+TeX        2 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.73 %
+Markdown   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Scala      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->

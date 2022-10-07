@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 05 October 2022
+From: 29 September 2022 - To: 06 October 2022
 
 Python     6 hrs 11 mins   ██████████████████░░░░░░░   72.20 %
 TeX        2 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.73 %

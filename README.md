@@ -11,9 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 October 2022 - To: 31 October 2022
+From: 25 October 2022 - To: 01 November 2022
 
-TeX   1 hr 55 mins    █████████████████████████   100.00 %
+TeX      2 hrs 19 mins   ████████████████▒░░░░░░░░   65.37 %
+Python   1 hr 12 mins    ████████▒░░░░░░░░░░░░░░░░   33.82 %
+JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

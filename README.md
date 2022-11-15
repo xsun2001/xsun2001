@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 November 2022 - To: 13 November 2022
+From: 07 November 2022 - To: 14 November 2022
 
-Rust               7 hrs 59 mins   ███████████████░░░░░░░░░░   60.50 %
-Markdown           1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-TeX                46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Scala              41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Makefile           38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-reStructuredText   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Rust               7 hrs 59 mins   ████████████▒░░░░░░░░░░░░   49.09 %
+Scala              3 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   19.96 %
+Markdown           1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+TeX                46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+Makefile           40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+reStructuredText   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->

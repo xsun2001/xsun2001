@@ -11,12 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 November 2022 - To: 26 November 2022
+From: 20 November 2022 - To: 27 November 2022
 
-Rust       2 hrs 41 mins   ██████████████████████▒░░   89.05 %
-Makefile   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-TOML       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Rust     2 hrs 11 mins   ███████████████████████░░   91.87 %
+Python   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
 ```
 
 <!--END_SECTION:waka-->

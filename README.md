@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 November 2022 - To: 05 December 2022
+From: 29 November 2022 - To: 06 December 2022
 
 C++              1 hr 56 mins    ██████████▒░░░░░░░░░░░░░░   41.77 %
 Rust             1 hr 20 mins    ███████▒░░░░░░░░░░░░░░░░░   28.94 %

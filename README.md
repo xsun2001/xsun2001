@@ -11,14 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 09 December 2022
+From: 03 December 2022 - To: 10 December 2022
 
-C++              1 hr 56 mins    █████████░░░░░░░░░░░░░░░░   36.60 %
-Scala            1 hr 23 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
-Assembly         28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-C                24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Python           17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Makefile         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Scala            1 hr 54 mins    ███████▒░░░░░░░░░░░░░░░░░   29.95 %
+Other            1 hr 18 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
 ```
 
 <!--END_SECTION:waka-->

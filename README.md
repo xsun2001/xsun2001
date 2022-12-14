@@ -11,12 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 December 2022 - To: 12 December 2022
+From: 06 December 2022 - To: 13 December 2022
 
-Scala            2 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-Assembly         1 hr 37 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
-Markdown         1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-Other            1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Scala            2 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.22 %
+Assembly         1 hr 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+Markdown         1 hr 24 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+C                1 hr 21 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Other            1 hr 19 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
 ```
 
 <!--END_SECTION:waka-->

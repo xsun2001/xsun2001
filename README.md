@@ -11,13 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
+From: 20 December 2022 - To: 27 December 2022
 
-C++              2 hrs 41 mins   ███████████▒░░░░░░░░░░░░░   45.70 %
-ObjectiveC       1 hr 45 mins    ███████▒░░░░░░░░░░░░░░░░░   29.91 %
-CMake            33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-TeX              26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Other            21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+C++              2 hrs 1 min     ████████████░░░░░░░░░░░░░   48.57 %
+ObjectiveC       1 hr 29 mins    █████████░░░░░░░░░░░░░░░░   35.50 %
+TeX              26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+Other            9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->

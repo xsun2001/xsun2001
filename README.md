@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 06 January 2023
+From: 31 December 2022 - To: 07 January 2023
 
-C++              7 hrs 32 mins   ██████████████████░░░░░░░   72.60 %
-ObjectiveC       2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Other            40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+C++              4 hrs 38 mins   █████████████████▒░░░░░░░   69.05 %
+ObjectiveC       1 hr 32 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
+Other            28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
 ```
 
 <!--END_SECTION:waka-->

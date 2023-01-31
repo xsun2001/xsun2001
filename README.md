@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 January 2023 - To: 29 January 2023
+From: 23 January 2023 - To: 30 January 2023
 
 C++          9 hrs 31 mins   ██████████████████░░░░░░░   72.25 %
 ObjectiveC   3 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   23.54 %

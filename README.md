@@ -11,13 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 January 2023 - To: 04 February 2023
+From: 29 January 2023 - To: 05 February 2023
 
-C++          4 hrs 3 mins    ████████████████▓░░░░░░░░   67.31 %
-ObjectiveC   1 hr 32 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
-C            21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-CMake        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

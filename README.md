@@ -11,11 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 February 2023 - To: 16 February 2023
+From: 10 February 2023 - To: 17 February 2023
 
-JSON       12 mins         ██████████████░░░░░░░░░░░   55.66 %
-Fortran    9 mins          ███████████░░░░░░░░░░░░░░   44.13 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JSON   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

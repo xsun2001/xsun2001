@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 March 2023 - To: 24 March 2023
+From: 18 March 2023 - To: 25 March 2023
 
-Python       9 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   32.39 %
-Vue.js       5 hrs 56 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
-TypeScript   3 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-Rust         2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-TeX          2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-Text         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Python       9 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   31.18 %
+Vue.js       5 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+Rust         2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+TypeScript   2 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+Markdown     2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+TeX          2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
 ```
 
 <!--END_SECTION:waka-->

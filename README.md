@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2023 - To: 19 May 2023
+From: 13 May 2023 - To: 20 May 2023
 
 TeX             2 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.09 %
 C++             1 hr 13 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.96 %

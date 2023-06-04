@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2023 - To: 02 June 2023
+From: 27 May 2023 - To: 03 June 2023
 
 Python     2 hrs 56 mins   ███████████▓░░░░░░░░░░░░░   46.56 %
 Julia      1 hr 43 mins    ███████░░░░░░░░░░░░░░░░░░   27.39 %

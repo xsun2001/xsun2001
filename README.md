@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2023 - To: 26 June 2023
+From: 20 June 2023 - To: 27 June 2023
 
 Java             3 hrs 9 mins    █████████████████████░░░░   84.37 %
 Python           22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %

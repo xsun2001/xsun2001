@@ -11,12 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2023 - To: 04 July 2023
+From: 28 June 2023 - To: 05 July 2023
 
-TeX          3 hrs 31 mins   █████████████████████████   99.77 %
-PostScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-BibTeX       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

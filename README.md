@@ -11,9 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2023 - To: 05 July 2023
+From: 29 June 2023 - To: 06 July 2023
 
-No activity tracked
+Dart   24 mins         ████████████████████████▒   97.95 %
+YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->

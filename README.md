@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2023 - To: 19 August 2023
+From: 13 August 2023 - To: 20 August 2023
 
-Python                11 hrs 32 mins  █████████████▒░░░░░░░░░░░   53.16 %
-Markdown              3 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-C                     2 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-HTTP Request          1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Text                  30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Python                11 hrs 32 mins  ████████████▒░░░░░░░░░░░░   49.13 %
+C                     3 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
+Markdown              3 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+HTTP Request          1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Perl                  32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->

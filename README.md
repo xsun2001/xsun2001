@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2023 - To: 23 August 2023
+From: 17 August 2023 - To: 24 August 2023
 
-Python           6 hrs 3 mins    ███████████░░░░░░░░░░░░░░   43.73 %
-C                3 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 %
-Markdown         2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-Perl             30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-ActionScript 3   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+C                3 hrs 59 mins   ██████████░░░░░░░░░░░░░░░   39.85 %
+Python           2 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   29.68 %
+Markdown         1 hr 27 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Perl             30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+ActionScript 3   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->

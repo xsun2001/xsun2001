@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2023 - To: 05 September 2023
+From: 30 August 2023 - To: 06 September 2023
 
-C              11 hrs 25 mins  ██████████▓░░░░░░░░░░░░░░   43.17 %
-TypeScript     9 hrs 46 mins   █████████▒░░░░░░░░░░░░░░░   36.91 %
-Markdown       1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Perl           54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Assembly       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+C              13 hrs 23 mins  █████████████▒░░░░░░░░░░░   53.57 %
+TypeScript     6 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+Markdown       1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Perl           1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Assembly       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 ```
 
 <!--END_SECTION:waka-->

@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2023 - To: 24 September 2023
+From: 18 September 2023 - To: 25 September 2023
 
-TypeScript       7 hrs 11 mins   ████████████░░░░░░░░░░░░░   48.60 %
-Rust             2 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
-Python           1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
-Makefile         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Bash             32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+TypeScript       5 hrs 12 mins   ████████████░░░░░░░░░░░░░   47.61 %
+Python           1 hr 45 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+Makefile         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Bash             32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Rust             31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->

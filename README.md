@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2023 - To: 27 September 2023
+From: 21 September 2023 - To: 28 September 2023
 
-Python           2 hrs 44 mins   ██████████▒░░░░░░░░░░░░░░   41.33 %
-Bash             36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-GDScript3        36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-Makefile         35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-Scala            24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Python           2 hrs 23 mins   ███████████░░░░░░░░░░░░░░   43.53 %
+GDScript3        1 hr 27 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
+Bash             36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+Jupyter          22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+JavaScript       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 ```
 
 <!--END_SECTION:waka-->

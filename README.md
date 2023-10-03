@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2023 - To: 01 October 2023
+From: 25 September 2023 - To: 02 October 2023
 
-Python           1 hr 53 mins    ███████████░░░░░░░░░░░░░░   43.61 %
-GDScript3        1 hr 27 mins    ████████▒░░░░░░░░░░░░░░░░   33.81 %
-Jupyter          22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-JavaScript       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-JSON             11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Python      1 hr 53 mins    ████████████▒░░░░░░░░░░░░   49.00 %
+GDScript3   1 hr 27 mins    █████████▒░░░░░░░░░░░░░░░   37.99 %
+Jupyter     22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+Bash        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Text        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->

@@ -11,9 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2023 - To: 06 October 2023
+From: 30 September 2023 - To: 07 October 2023
 
-No activity tracked
+C++              1 hr 12 mins    ████████████████▒░░░░░░░░   64.80 %
+Python           14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+Markdown         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+Ezhil            6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+C                4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->

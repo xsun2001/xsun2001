@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2023 - To: 16 October 2023
+From: 10 October 2023 - To: 17 October 2023
 
 JSON             1 hr 12 mins    ██████████▒░░░░░░░░░░░░░░   41.96 %
 TeX              43 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.34 %

@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2023 - To: 25 October 2023
+From: 20 October 2023 - To: 27 October 2023
 
-TeX            4 hrs 11 mins   ████████████▓░░░░░░░░░░░░   50.85 %
-Markdown       1 hr 14 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
-TypeScript     1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Docker         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-JSON           20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+TeX            7 hrs 41 mins   ██████████████░░░░░░░░░░░   56.32 %
+TypeScript     2 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
+Markdown       1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+BibTeX         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Docker         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
 ```
 
 <!--END_SECTION:waka-->

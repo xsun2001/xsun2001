@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2023 - To: 31 October 2023
+From: 25 October 2023 - To: 01 November 2023
 
-TeX              5 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   39.12 %
-TypeScript       4 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   31.82 %
-Markdown         1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-HTML             1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-BibTeX           35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+TypeScript       7 hrs 31 mins   ████████████▒░░░░░░░░░░░░   49.46 %
+TeX              3 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
+HTML             1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Docker           56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+JavaScript       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->

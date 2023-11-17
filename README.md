@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 09 November 2023 - To: 16 November 2023
 
-C++              3 hrs 21 mins   ██████████▓░░░░░░░░░░░░░░   42.12 %
-Python           2 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   28.96 %
-TypeScript       38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-Docker           29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-Bash             20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Python           5 hrs 17 mins   ████████████████░░░░░░░░░   64.47 %
+Markdown         1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+TypeScript       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Text             18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Docker           17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:waka-->

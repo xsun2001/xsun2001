@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2023 - To: 01 December 2023
+From: 25 November 2023 - To: 02 December 2023
 
-Python           4 hrs 28 mins   █████████████▒░░░░░░░░░░░   53.38 %
-Markdown         1 hr 12 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
-Rust             44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-Fortran          43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Text             26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Python           4 hrs 28 mins   █████████████░░░░░░░░░░░░   51.46 %
+Markdown         1 hr 12 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Fortran          49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+Rust             44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Text             26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
 ```
 
 <!--END_SECTION:waka-->

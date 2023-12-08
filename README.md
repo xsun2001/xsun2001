@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2023 - To: 06 December 2023
+From: 30 November 2023 - To: 07 December 2023
 
-Python         5 hrs 36 mins   ███████████████▒░░░░░░░░░   61.22 %
-Scala          1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
-Fortran        49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-Makefile       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-CMake          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Scala            5 hrs 35 mins   █████████████▒░░░░░░░░░░░   52.83 %
+Python           3 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   36.26 %
+CSV/TSV          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+CMake            13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Text             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->

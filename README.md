@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 07 December 2023
+From: 01 December 2023 - To: 08 December 2023
 
-Scala            5 hrs 35 mins   █████████████▒░░░░░░░░░░░   52.83 %
-Python           3 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   36.26 %
-CSV/TSV          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-CMake            13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Text             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Scala            5 hrs 35 mins   ██████████▓░░░░░░░░░░░░░░   43.25 %
+Python           3 hrs 50 mins   ███████▒░░░░░░░░░░░░░░░░░   29.68 %
+TeX              2 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
+CSV/TSV          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+CMake            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->

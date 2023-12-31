@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2023 - To: 29 December 2023
+From: 23 December 2023 - To: 30 December 2023
 
-Python           6 hrs 38 mins   ███████▓░░░░░░░░░░░░░░░░░   30.81 %
-Scala            5 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   23.98 %
-PHP              4 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   19.41 %
-Bash             1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-C                1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Scala            7 hrs 5 mins    █████████▓░░░░░░░░░░░░░░░   38.92 %
+Python           4 hrs 52 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.77 %
+Bash             1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+C                1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Makefile         57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 ```
 
 <!--END_SECTION:waka-->

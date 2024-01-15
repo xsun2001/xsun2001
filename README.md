@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2024 - To: 13 January 2024
+From: 07 January 2024 - To: 14 January 2024
 
-Scala           3 hrs 8 mins    ██████████▓░░░░░░░░░░░░░░   42.60 %
-TeX             2 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   28.45 %
-Python          47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-Fortran         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Markdown        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Scala           6 hrs 21 mins   ██████████████▒░░░░░░░░░░   57.59 %
+TeX             2 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
+Python          47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Fortran         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+TypeScript      29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 ```
 
 <!--END_SECTION:waka-->

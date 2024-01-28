@@ -11,10 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2024 - To: 26 January 2024
+From: 20 January 2024 - To: 27 January 2024
 
-Markdown   32 mins         ████████████████████████▓   98.07 %
-Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+C++              35 mins         ███████████▓░░░░░░░░░░░░░   46.48 %
+Markdown         32 mins         ██████████▓░░░░░░░░░░░░░░   42.39 %
+C                8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->

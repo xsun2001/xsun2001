@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2024 - To: 01 February 2024
+From: 26 January 2024 - To: 02 February 2024
 
 Fortran          1 hr 1 min      ████████▒░░░░░░░░░░░░░░░░   32.80 %
 C++              50 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.56 %

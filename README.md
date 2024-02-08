@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2024 - To: 06 February 2024
+From: 31 January 2024 - To: 07 February 2024
 
-Fortran    1 hr 48 mins    ██████████▒░░░░░░░░░░░░░░   41.16 %
-Markdown   44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-Python     32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-TOML       28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-GLSL       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+Python           2 hrs 3 mins    █████████████░░░░░░░░░░░░   51.54 %
+Fortran          46 mins         █████░░░░░░░░░░░░░░░░░░░░   19.68 %
+TOML             33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+Markdown         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Bash             12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 ```
 
 <!--END_SECTION:waka-->

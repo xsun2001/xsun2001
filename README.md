@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2024 - To: 07 February 2024
+From: 01 February 2024 - To: 08 February 2024
 
-Python           2 hrs 3 mins    █████████████░░░░░░░░░░░░   51.54 %
-Fortran          46 mins         █████░░░░░░░░░░░░░░░░░░░░   19.68 %
-TOML             33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
-Markdown         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-Bash             12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Python           2 hrs 3 mins    ███████████▓░░░░░░░░░░░░░   47.00 %
+Fortran          46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
+TOML             33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+Bash             21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Markdown         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 ```
 
 <!--END_SECTION:waka-->

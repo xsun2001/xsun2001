@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2024 - To: 14 February 2024
+From: 08 February 2024 - To: 15 February 2024
 
-Scala            1 hr 33 mins    █████████▒░░░░░░░░░░░░░░░   36.94 %
-Python           1 hr 16 mins    ███████▓░░░░░░░░░░░░░░░░░   30.14 %
-Markdown         24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-Bash             21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Makefile         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Scala            1 hr 28 mins    █████████▓░░░░░░░░░░░░░░░   38.35 %
+Python           1 hr 16 mins    ████████▒░░░░░░░░░░░░░░░░   33.18 %
+Markdown         23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+Makefile         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Bash             12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 ```
 
 <!--END_SECTION:waka-->

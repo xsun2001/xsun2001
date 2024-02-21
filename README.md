@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2024 - To: 19 February 2024
+From: 13 February 2024 - To: 20 February 2024
 
-Scala            5 hrs 38 mins   ████████████████▒░░░░░░░░   65.93 %
-Fortran          1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-Rust             39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-Other            29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-CMake            22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Scala           5 hrs 38 mins   ████████████████░░░░░░░░░   63.43 %
+Fortran         1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+Rust            34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Other           29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+CMake           22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 ```
 
 <!--END_SECTION:waka-->

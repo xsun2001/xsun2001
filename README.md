@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2024 - To: 27 February 2024
+From: 21 February 2024 - To: 28 February 2024
 
-Python       2 hrs 49 mins   ███████████████░░░░░░░░░░   59.53 %
-Markdown     1 hr 10 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
-Fortran      13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-TeX          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-CMake        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Python           10 hrs 5 mins   ████████████████▒░░░░░░░░   65.15 %
+TOML             1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+Markdown         1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+TeX              1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+YAML             28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->

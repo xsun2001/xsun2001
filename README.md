@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2024 - To: 04 March 2024
+From: 27 February 2024 - To: 05 March 2024
 
-Python                     9 hrs 18 mins   ███████████████░░░░░░░░░░   59.66 %
-TeX                        1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-YAML                       1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-TypeScript                 49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Docker                     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Python                     9 hrs 12 mins   █████████████▒░░░░░░░░░░░   52.68 %
+TypeScript                 2 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+TeX                        1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+YAML                       1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Docker                     37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->

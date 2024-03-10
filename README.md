@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2024 - To: 08 March 2024
+From: 02 March 2024 - To: 09 March 2024
 
-Python                     13 hrs 46 mins  ███████████████▓░░░░░░░░░   62.65 %
-TypeScript                 3 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-YAML                       1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Jupyter                    41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Docker                     29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Python           13 hrs 10 mins  ████████████████░░░░░░░░░   63.93 %
+TypeScript       3 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+YAML             56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Jupyter          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+TOML             28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->

@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2024 - To: 19 March 2024
+From: 13 March 2024 - To: 20 March 2024
 
-Scala             9 hrs 9 mins    █████████▓░░░░░░░░░░░░░░░   38.95 %
-TypeScript        5 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   24.53 %
-Python            2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Rust              1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-C                 1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Scala             11 hrs 27 mins  ███████████▒░░░░░░░░░░░░░   45.41 %
+TypeScript        5 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
+Python            2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+Rust              1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Bash              58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->

@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 07 April 2024
+From: 01 April 2024 - To: 08 April 2024
 
-Scala            9 hrs 54 mins   █████████▓░░░░░░░░░░░░░░░   39.10 %
-Rust             3 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-TypeScript       2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-TeX              2 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-C                1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Scala            6 hrs 30 mins   ███████░░░░░░░░░░░░░░░░░░   28.09 %
+Rust             5 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
+TypeScript       3 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
+TeX              2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+Bash             1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 ```
 
 <!--END_SECTION:waka-->

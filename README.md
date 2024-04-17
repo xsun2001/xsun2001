@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2024 - To: 15 April 2024
+From: 09 April 2024 - To: 16 April 2024
 
-TypeScript       5 hrs 15 mins   ███████▒░░░░░░░░░░░░░░░░░   29.91 %
-Scala            3 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
-Rust             3 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-Markdown         1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Makefile         1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+TypeScript       4 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   35.22 %
+Scala            3 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
+Markdown         1 hr 52 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Makefile         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Fortran          48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 ```
 
 <!--END_SECTION:waka-->

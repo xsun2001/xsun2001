@@ -11,11 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2024 - To: 23 June 2024
+From: 17 June 2024 - To: 24 June 2024
 
-TeX        24 mins         ████████████████████████▓   98.99 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Rust                      1 hr 55 mins    ███████████████████░░░░░░   76.13 %
+WGSL File                 15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+TeX                       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+TOML                      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+WebGPU Shading Language   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->

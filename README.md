@@ -11,13 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2024 - To: 30 June 2024
+From: 24 June 2024 - To: 01 July 2024
 
-Rust                      2 hrs 2 mins    █████████████████████░░░░   84.22 %
-WGSL File                 15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-TOML                      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-WebGPU Shading Language   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Other                     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Rust   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

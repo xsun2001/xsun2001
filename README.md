@@ -11,12 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2024 - To: 05 July 2024
+From: 29 June 2024 - To: 06 July 2024
 
-Rust                      1 hr 21 mins    ██████████████████████▒░░   89.50 %
-TOML                      8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
-WGSL File                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-WebGPU Shading Language   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown                  1 hr 43 mins    █████████████▒░░░░░░░░░░░   53.32 %
+Rust                      1 hr 21 mins    ██████████▒░░░░░░░░░░░░░░   41.73 %
+TOML                      8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+WGSL File                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JSON                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->

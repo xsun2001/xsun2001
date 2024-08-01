@@ -11,11 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2024 - To: 30 July 2024
+From: 24 July 2024 - To: 31 July 2024
 
-Scala         1 hr 27 mins    ██████████████████░░░░░░░   71.41 %
-Markdown      34 mins         ███████░░░░░░░░░░░░░░░░░░   28.57 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown   34 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

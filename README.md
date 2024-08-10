@@ -11,11 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2024 - To: 08 August 2024
+From: 02 August 2024 - To: 09 August 2024
 
-GitIgnore file   1 min           ████████████████████████▓   99.05 %
-C++              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+C++              1 hr 20 mins    ████████████████▒░░░░░░░░   64.89 %
+ObjectiveC       37 mins         ███████▓░░░░░░░░░░░░░░░░░   30.48 %
+Text             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->

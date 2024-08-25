@@ -11,11 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2024 - To: 23 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
-C++          10 mins         █████████████▒░░░░░░░░░░░   53.57 %
-JSON         6 mins          ████████▒░░░░░░░░░░░░░░░░   33.98 %
-ObjectiveC   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

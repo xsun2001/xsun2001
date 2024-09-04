@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2024 - To: 02 September 2024
+From: 27 August 2024 - To: 03 September 2024
 
 Other         2 hrs 49 mins   ███████████████▓░░░░░░░░░   62.72 %
 C++           1 hr 10 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.18 %

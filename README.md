@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 09 September 2024
+From: 03 September 2024 - To: 10 September 2024
 
-C++              9 hrs 43 mins   ██████████████████░░░░░░░   71.73 %
-ObjectiveC       2 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   19.66 %
-CMake            31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Text             16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-JSON             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+C++              10 hrs 58 mins  ██████████████████▒░░░░░░   73.63 %
+ObjectiveC       2 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
+CMake            31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Text             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+JSON             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->

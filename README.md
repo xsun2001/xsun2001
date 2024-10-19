@@ -11,10 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2024 - To: 17 October 2024
+From: 11 October 2024 - To: 18 October 2024
 
-C++    1 hr 48 mins    ██████████████████▓░░░░░░   75.14 %
-TOML   35 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
+C++    49 mins         █████████████████████████   99.79 %
+TOML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->

@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2024 - To: 23 October 2024
+From: 17 October 2024 - To: 24 October 2024
 
 C++          4 hrs 39 mins   ████████████████░░░░░░░░░   64.08 %
 Markdown     1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %

@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2024 - To: 01 November 2024
+From: 26 October 2024 - To: 02 November 2024
 
-C++            2 hrs 38 mins   ████████████████▒░░░░░░░░   65.75 %
-Markdown       1 hr 9 mins     ███████▒░░░░░░░░░░░░░░░░░   28.69 %
-TeX            12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+C++            2 hrs 32 mins   █████████████████▒░░░░░░░   69.42 %
+Markdown       54 mins         ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+TeX            12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->

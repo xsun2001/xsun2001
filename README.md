@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2024 - To: 02 December 2024
+From: 26 November 2024 - To: 03 December 2024
 
-Markdown   4 hrs 3 mins    ██████████▓░░░░░░░░░░░░░░   42.76 %
-C++        3 hrs 57 mins   ██████████▒░░░░░░░░░░░░░░   41.74 %
-Other      1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Makefile   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-INI        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Markdown   2 hrs 18 mins   ████████████▓░░░░░░░░░░░░   51.02 %
+C++        1 hr 52 mins    ██████████▒░░░░░░░░░░░░░░   41.51 %
+Other      12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Makefile   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Python     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->

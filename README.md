@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2024 - To: 09 December 2024
+From: 03 December 2024 - To: 10 December 2024
 
 C++           1 hr 8 mins     ███████████████░░░░░░░░░░   59.60 %
 JSON          20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %

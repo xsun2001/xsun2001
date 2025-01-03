@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2024 - To: 01 January 2025
+From: 26 December 2024 - To: 02 January 2025
 
-C++           9 hrs 57 mins   ████████████░░░░░░░░░░░░░   47.99 %
-Other         5 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
-Python        2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Markdown      1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-JSON          1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+C++           9 hrs 24 mins   █████████▒░░░░░░░░░░░░░░░   37.90 %
+Other         7 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   28.47 %
+Python        3 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
+Markdown      2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+JSON          1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
 ```
 
 <!--END_SECTION:waka-->

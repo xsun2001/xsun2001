@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2025 - To: 08 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
-Other           4 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   29.62 %
-Markdown        1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-Python          1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
-Tcl             1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-JSON            1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Other           2 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.07 %
+Markdown        1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+Tcl             1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+Scala           1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+Bash            40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
 ```
 
 <!--END_SECTION:waka-->

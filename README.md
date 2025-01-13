@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 11 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
-Markdown        23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
-SystemVerilog   22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
-Scala           16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
-Tcl             15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-JavaScript      14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Python          1 hr 37 mins    ███████████████▓░░░░░░░░░   62.94 %
+JavaScript      14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Markdown        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+Other           7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+SystemVerilog   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
 ```
 
 <!--END_SECTION:waka-->

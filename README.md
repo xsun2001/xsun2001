@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2025 - To: 12 January 2025
+From: 06 January 2025 - To: 13 January 2025
 
-Python          1 hr 37 mins    ███████████████▓░░░░░░░░░   62.94 %
-JavaScript      14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Markdown        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Other           7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-SystemVerilog   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Python          1 hr 57 mins    ██████████░░░░░░░░░░░░░░░   40.58 %
+Markdown        25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Other           21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+SystemVerilog   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Tcl             20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
 ```
 
 <!--END_SECTION:waka-->

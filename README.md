@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
-Scala             10 hrs 7 mins   ███████████▓░░░░░░░░░░░░░   46.91 %
-Python            2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-Tcl               2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-Markdown          1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-Other             1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Scala             10 hrs 7 mins   ███████████░░░░░░░░░░░░░░   43.46 %
+Python            2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Tcl               2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+Markdown          1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Other             1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
 ```
 
 <!--END_SECTION:waka-->

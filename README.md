@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2025 - To: 12 February 2025
+From: 06 February 2025 - To: 13 February 2025
 
-Scala           4 hrs 30 mins   █████████████▒░░░░░░░░░░░   52.85 %
-TypeScript      2 hrs 54 mins   ████████▒░░░░░░░░░░░░░░░░   33.99 %
-C++             37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-JSON            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-SystemVerilog   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Scala           4 hrs 25 mins   █████████████░░░░░░░░░░░░   52.66 %
+TypeScript      2 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   27.40 %
+C++             37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Markdown        34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+JSON            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->

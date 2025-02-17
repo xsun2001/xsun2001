@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2025 - To: 15 February 2025
+From: 09 February 2025 - To: 16 February 2025
 
 Scala         4 hrs 34 mins   ██████████████▒░░░░░░░░░░   57.64 %
 C++           2 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   27.95 %

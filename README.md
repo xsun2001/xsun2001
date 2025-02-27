@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 25 February 2025
+From: 19 February 2025 - To: 26 February 2025
 
-Scala           20 hrs 28 mins  ███████████████░░░░░░░░░░   59.88 %
-Other           3 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
-TeX             1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Python          1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-SystemVerilog   1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Scala           15 hrs 21 mins  ████████████▒░░░░░░░░░░░░   49.78 %
+Other           3 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+TeX             3 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+Python          2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+SystemVerilog   1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
 ```
 
 <!--END_SECTION:waka-->

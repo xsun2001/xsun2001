@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2025 - To: 07 March 2025
+From: 01 March 2025 - To: 08 March 2025
 
 C++             3 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.56 %
 Markdown        2 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %

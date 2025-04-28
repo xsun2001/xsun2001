@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2025 - To: 26 April 2025
+From: 20 April 2025 - To: 27 April 2025
 
-Fortran      6 hrs 9 mins    ██████████▒░░░░░░░░░░░░░░   41.77 %
-Python       5 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   38.28 %
-Markdown     1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-Text         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Fortran      6 hrs 26 mins   █████████░░░░░░░░░░░░░░░░   36.62 %
+Python       6 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   36.15 %
+Markdown     3 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+Text         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+CSV          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->

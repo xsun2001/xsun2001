@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2025 - To: 24 May 2025
+From: 18 May 2025 - To: 25 May 2025
 
 Cuda          2 hrs 16 mins   ██████████████▓░░░░░░░░░░   58.62 %
 Python        34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %

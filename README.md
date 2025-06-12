@@ -11,13 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 10 June 2025
+From: 04 June 2025 - To: 11 June 2025
 
-Cuda         28 mins         █████████████░░░░░░░░░░░░   52.33 %
-C++          14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
-JSON         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-CMake        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

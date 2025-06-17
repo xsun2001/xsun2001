@@ -11,9 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2025 - To: 15 June 2025
+From: 09 June 2025 - To: 16 June 2025
 
-No activity tracked
+C++          2 hrs 42 mins   ████████████▓░░░░░░░░░░░░   51.03 %
+Python       1 hr 50 mins    ████████▓░░░░░░░░░░░░░░░░   34.83 %
+Other        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+CMake        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+TOML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->

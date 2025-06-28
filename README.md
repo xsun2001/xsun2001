@@ -11,13 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2025 - To: 26 June 2025
+From: 20 June 2025 - To: 27 June 2025
 
-Python   22 mins         ██████████████▓░░░░░░░░░░   59.24 %
-C++      12 mins         ███████▓░░░░░░░░░░░░░░░░░   31.29 %
-TOML     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Bash     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-CMake    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

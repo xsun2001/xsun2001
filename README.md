@@ -11,9 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2025 - To: 02 July 2025
+From: 26 June 2025 - To: 03 July 2025
 
-No activity tracked
+Cuda       55 mins         █████████████░░░░░░░░░░░░   51.66 %
+Python     19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
+Makefile   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Markdown   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+Other      7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
 ```
 
 <!--END_SECTION:waka-->

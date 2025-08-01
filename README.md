@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2025 - To: 30 July 2025
+From: 24 July 2025 - To: 31 July 2025
 
-Markdown     1 hr 27 mins    ██████████░░░░░░░░░░░░░░░   40.48 %
-Docker       1 hr 2 mins     ███████▒░░░░░░░░░░░░░░░░░   28.97 %
-Scala        40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
-TypeScript   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Markdown     2 hrs 56 mins   ████████████▒░░░░░░░░░░░░   49.20 %
+Docker       1 hr 32 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
+Scala        40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+TypeScript   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Bash         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->

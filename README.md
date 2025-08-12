@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2025 - To: 10 August 2025
+From: 04 August 2025 - To: 11 August 2025
 
-Scala               3 hrs 55 mins   ███████████████░░░░░░░░░░   60.37 %
-Markdown            42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-Java Properties     25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Go                  24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Python              15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Scala               4 hrs 2 mins    ████████████████░░░░░░░░░   64.63 %
+Java Properties     25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Go                  24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Markdown            23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Python              15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->

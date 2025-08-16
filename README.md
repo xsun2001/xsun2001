@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
-Scala               12 hrs 13 mins  █████████████████████▓░░░   86.32 %
-SystemVerilog       36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-Go                  26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Java Properties     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Git Config          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Scala               15 hrs 11 mins  ██████████████████████░░░   87.98 %
+SystemVerilog       1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Java Properties     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Git Config          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Other               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->

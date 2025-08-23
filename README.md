@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2025 - To: 21 August 2025
+From: 15 August 2025 - To: 22 August 2025
 
-Scala           9 hrs 38 mins   █████████████▒░░░░░░░░░░░   53.37 %
-Python          7 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   39.69 %
-SystemVerilog   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Other           24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Bash            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Python          7 hrs 10 mins   ████████████▓░░░░░░░░░░░░   50.39 %
+Scala           6 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   45.00 %
+Other           24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+SystemVerilog   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Bash            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->

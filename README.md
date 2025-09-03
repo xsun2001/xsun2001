@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2025 - To: 01 September 2025
+From: 26 August 2025 - To: 02 September 2025
 
-Fortran    3 hrs 26 mins   ███████████████▓░░░░░░░░░   63.28 %
-Python     1 hr 20 mins    ██████░░░░░░░░░░░░░░░░░░░   24.58 %
-Text       23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Markdown   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Makefile   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Fortran       4 hrs 3 mins    ████████████▓░░░░░░░░░░░░   50.12 %
+Python        1 hr 20 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
+C++           1 hr 9 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+CMake         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Text          23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 ```
 
 <!--END_SECTION:waka-->

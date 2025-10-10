@@ -11,9 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-No activity tracked
+Python            3 hrs 4 mins    ███████████████▓░░░░░░░░░   63.01 %
+JSON              44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
+Bash              43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+C++               9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+INI               7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->

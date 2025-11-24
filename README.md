@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2025 - To: 22 November 2025
+From: 16 November 2025 - To: 23 November 2025
 
-TeX          24 hrs 15 mins  ████████████████▒░░░░░░░░   64.71 %
-Python       8 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
-TypeScript   3 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-JSON         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-MDX          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+TeX          16 hrs 39 mins  ██████████████▒░░░░░░░░░░   56.78 %
+TypeScript   6 hrs 24 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
+Python       4 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+MDX          34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->

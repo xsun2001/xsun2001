@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2025 - To: 10 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-Python       4 hrs 54 mins   ████████▓░░░░░░░░░░░░░░░░   35.07 %
-C++          3 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   28.37 %
-Rust         3 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
-Bash         1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Text         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Python       7 hrs 12 mins   ██████████░░░░░░░░░░░░░░░   40.50 %
+C++          3 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
+Rust         3 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+Bash         1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+TypeScript   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:waka-->

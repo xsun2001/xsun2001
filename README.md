@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2025 - To: 19 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
-Python          5 hrs 27 mins   ████████████░░░░░░░░░░░░░   48.22 %
-TypeScript      3 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   34.83 %
-Rust            54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-JSON            19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Bash            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Python          5 hrs 6 mins    ██████████▒░░░░░░░░░░░░░░   41.04 %
+TypeScript      3 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
+Rust            2 hrs 59 mins   ██████░░░░░░░░░░░░░░░░░░░   24.02 %
+JSON            18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Bash            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->

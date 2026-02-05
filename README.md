@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2026 - To: 03 February 2026
+From: 28 January 2026 - To: 04 February 2026
 
-Python            5 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   35.99 %
-Scala             3 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
-Fortran           1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Rust              1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Mermaid           42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Scala             2 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   30.85 %
+Python            2 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
+Fortran           1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+Other             1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+YAML              29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
 ```
 
 <!--END_SECTION:waka-->

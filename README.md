@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2026 - To: 04 February 2026
+From: 29 January 2026 - To: 05 February 2026
 
-Scala             2 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   30.85 %
-Python            2 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
-Fortran           1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-Other             1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-YAML              29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Scala             2 hrs 26 mins   ███████▓░░░░░░░░░░░░░░░░░   31.16 %
+Python            1 hr 32 mins    █████░░░░░░░░░░░░░░░░░░░░   19.79 %
+Other             1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Fortran           37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+YAML              29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
 ```
 
 <!--END_SECTION:waka-->

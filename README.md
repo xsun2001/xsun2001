@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2026 - To: 11 February 2026
+From: 05 February 2026 - To: 12 February 2026
 
-Scala           49 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-TeX             46 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 %
-Python          23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-Markdown        20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-SystemVerilog   18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+TeX             46 mins         █████████░░░░░░░░░░░░░░░░   35.60 %
+Markdown        20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Scala           19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
+SystemVerilog   18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Python          10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
 ```
 
 <!--END_SECTION:waka-->

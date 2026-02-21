@@ -11,13 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Python       2 hrs 31 mins         ████████████████▒░░░░░░░░   65.71 %
-CSV          33 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-Other        13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Bash         12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Text         11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

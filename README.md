@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2026 - To: 09 March 2026
+From: 03 March 2026 - To: 10 March 2026
 
-Markdown          22 hrs 17 mins        █████████▓░░░░░░░░░░░░░░░   38.96 %
-Git Config        9 hrs 1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-TeX               6 hrs 42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-Python            4 hrs 7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-JSON              3 hrs 51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Markdown          20 hrs 31 mins        ██████████░░░░░░░░░░░░░░░   39.46 %
+TeX               9 hrs 19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+Git Config        8 hrs 52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
+Python            4 hrs 5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Scala             3 hrs 10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->

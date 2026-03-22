@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2026 - To: 20 March 2026
+From: 14 March 2026 - To: 21 March 2026
 
-Scala           16 hrs 33 mins        █████████████▓░░░░░░░░░░░   54.13 %
-Markdown        6 hrs 24 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
-Text            2 hrs 45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-Python          2 hrs 15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-Other           52 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Scala           16 hrs 41 mins        ████████████▒░░░░░░░░░░░░   49.39 %
+Markdown        6 hrs 51 mins         █████░░░░░░░░░░░░░░░░░░░░   20.29 %
+Text            2 hrs 57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Python          2 hrs 17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+TeX             1 hr 55 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 ```
 
 <!--END_SECTION:waka-->

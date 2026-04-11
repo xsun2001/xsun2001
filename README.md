@@ -4,7 +4,7 @@
 
 ### [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsun2001&layout=compact&theme=radical) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsun2001&show_icons=true&theme=radical)
+![Top Langs](./profile/top-langs.svg) ![Anurag's GitHub stats](./profile/stats.svg)
 
 ### [WakaTime](https://wakatime.com)
 

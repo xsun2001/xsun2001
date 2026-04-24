@@ -11,13 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2026 - To: 22 April 2026
+From: 16 April 2026 - To: 23 April 2026
 
-TeX          1 hr 29 mins          █████████████▒░░░░░░░░░░░   53.50 %
-BibTeX       29 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
-Markdown     20 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-Other        15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Text         10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -11,9 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2026 - To: 24 April 2026
+From: 18 April 2026 - To: 25 April 2026
 
-No activity tracked
+Markdown     42 mins               █████████████████▓░░░░░░░   70.18 %
+TypeScript   17 mins               ███████▒░░░░░░░░░░░░░░░░░   29.10 %
+YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->

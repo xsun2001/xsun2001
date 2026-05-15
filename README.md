@@ -11,9 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2026 - To: 12 May 2026
+From: 07 May 2026 - To: 14 May 2026
 
-No activity tracked
+TeX        20 mins               █████████▓░░░░░░░░░░░░░░░   38.92 %
+Python     16 mins               ████████░░░░░░░░░░░░░░░░░   31.89 %
+Other      13 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
+Markdown   1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->

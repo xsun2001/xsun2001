@@ -11,13 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2026 - To: 24 June 2026
+From: 18 June 2026 - To: 25 June 2026
 
-TeX        1 hr 59 mins          █████████████████▓░░░░░░░   70.04 %
-Python     19 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
-CSV        17 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-Markdown   13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-JSON       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

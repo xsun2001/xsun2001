@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2026 - To: 14 August 2026
+From: 08 August 2026 - To: 15 August 2026
 
-Markdown          3 hrs 4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
-YAML              1 hr 59 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-TeX               1 hr 41 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Bash              1 hr 33 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-Python            1 hr 18 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Markdown          2 hrs 45 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
+YAML              1 hr 59 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+TeX               1 hr 41 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
+Bash              1 hr 33 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Python            1 hr 17 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
 ```
 
 <!--END_SECTION:waka-->

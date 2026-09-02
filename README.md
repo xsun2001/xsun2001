@@ -13,13 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2026 - To: 31 August 2026
+From: 25 August 2026 - To: 01 September 2026
 
-Markdown   52 mins               ████████████░░░░░░░░░░░░░   48.24 %
-Python     31 mins               ███████░░░░░░░░░░░░░░░░░░   28.65 %
-Other      18 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-Cuda       6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Makefile   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown   52 mins               ██████████████░░░░░░░░░░░   56.66 %
+Other      18 mins               █████░░░░░░░░░░░░░░░░░░░░   20.06 %
+Python     15 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+Cuda       6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
 ```
 
 <!--END_SECTION:waka-->
